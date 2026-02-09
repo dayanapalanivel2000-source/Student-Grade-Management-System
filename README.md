@@ -31,21 +31,21 @@ Concepts Used:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives of the Project:
 
-To store and manage student academic records
-To calculate total marks and average scores
-To automatically assign grades based on performance
-To display student results in a structured format
-To handle invalid inputs using exception handling
+To store and manage student academic records.
+To calculate total marks and average scores.
+To automatically assign grades based on performance.
+To display student results in a structured format.
+To handle invalid inputs using exception handling.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
 
-Add student details (Name & Marks)
-Prevent numeric names and negative marks
-Automatic grade calculation (A, B, C, D (Fail))
-Display all student records
-User-friendly menu-driven program
-Error handling for invalid inputs
+Add student details (Name & Marks).
+Prevent numeric names and negative marks.
+Automatic grade calculation (A, B, C, D (Fail)).
+Display all student records.
+User-friendly menu-driven program.
+Error handling for invalid inputs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Output:
